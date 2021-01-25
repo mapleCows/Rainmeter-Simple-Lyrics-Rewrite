@@ -12,6 +12,7 @@ Download SimpleLyricsDisplayRemastered.rmskin and install using rainmeter
 Was able to correct the parsing fucntion to correctly access the Genius Song Lyric webpage and display the lyrics on an transparent display on my desktop
 
 ![Screenshot](display.jpg)
+![Screenshot](display3.jpg)
 
 
 # Issues
